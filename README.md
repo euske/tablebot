@@ -1,7 +1,7 @@
 Tablebot
 ========
 
-A legendry IRC bot made by Tijn for #ludumdare IRC channel.
+A legendary IRC bot made by Tijn for #ludumdare IRC channel.
 
 Originaly at http://pastebin.com/Azc5W7Z8
 
